@@ -1,6 +1,7 @@
 {	
 	"name": "fcc-learn-npm-package-json",
 	"author": "Meelyn Pandit",
+	"description": "A NodeJS and NPM tutorial.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
