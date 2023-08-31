@@ -1,6 +1,6 @@
 {	
-	"author": "Meelyn Pandit",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Meelyn Pandit",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
